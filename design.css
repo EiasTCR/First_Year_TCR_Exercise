@@ -8,6 +8,10 @@ html {
 }
 body {
   font-family: "Goldman", cursive;
+  background-image: url("img/background.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
 }
 
 nav {
@@ -36,4 +40,13 @@ nav a {
 }
 nav img {
   width: 5vw;
+}
+h1 {
+  font-size: 70px;
+  padding-top: 200px;
+  text-align: center;
+}
+h2 {
+  font-size: 70px;
+  text-align: center;
 }
